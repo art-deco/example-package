@@ -1,10 +1,10 @@
 {
-  "_myNewPackage.myNewPackage": {
-    "link": "https://github.com/mnpjs/package#async-mynewpackageconfig-config-string",
-    "description": "{{ description }}"
+  "_examplePackage.examplePackage": {
+    "link": "https://github.com/example-packagejs/package#async-mynewpackageconfig-config-string",
+    "description": "My New Example Package."
   },
-  "_myNewPackage.Config": {
-    "link": "https://github.com/mnpjs/package#type-config",
+  "_examplePackage.Config": {
+    "link": "https://github.com/example-packagejs/package#type-config",
     "description": "Options for the program."
   }
 }

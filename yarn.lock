@@ -2,11 +2,6 @@
 # yarn lockfile v1
 
 
-"@artdeco/npm-s@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@artdeco/npm-s/-/npm-s-1.0.1.tgz#9552425772eee4a08a2e3e60a88d349f37d2ae4f"
-  integrity sha512-dDvHrqRT4XDYQ/uVIlEwFw5ie/kbkAzjx/hc6AjxPU2OmTBS9qR5YkSwF4uphTV5jfQ+Ru2sl/UxlhQ6NeBdrA==
-
 "@depack/nodejs@^1.1.4":
   version "1.1.4"
   resolved "https://registry.yarnpkg.com/@depack/nodejs/-/nodejs-1.1.4.tgz#36195f33fef7a6b9b1f93a043a52a87fac087729"
@@ -16,16 +11,6 @@
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/@externs/nodejs/-/nodejs-1.5.0.tgz#88ff9e7a03c53d19101ee49768e598ff0f39c9ad"
   integrity sha512-2J+FRDjGfKKldTQ5YqLmhQ04/sA9swTQ6OTtPzo4xhg41u1+eiufciXiqW6u3UXEcmm413a27NakgnLbzfp0wQ==
-
-"@mnpjs/licenses@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@mnpjs/licenses/-/licenses-1.0.0.tgz#f154427072c7673706a910b253e2eaeee13be7a5"
-  integrity sha512-Xp2SUndtz97AJ51nZpAfsA/HG5TZ7T770d2POaGUnXMrF9VgyyfziLLcG9rqquOgjaLKYda0anWWZdYKm2SCwg==
-
-"@rqt/github@^1.3.1":
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/@rqt/github/-/github-1.3.1.tgz#75070036d3ed0dd7d9e39b753c4255cae5a1190a"
-  integrity sha512-R5Pq6Xkhi4zbtHDY3Vx/ea9UuaShYxaDIgHEZputDTXcpFzBRCQIebMcYlpcZgQdtGu9O8tzwmBpKXC9UAxd5Q==
 
 "@zoroaster/assert@^1.0.2":
   version "1.0.2"
@@ -78,15 +63,6 @@ indicatrix@^1.4.1:
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/indicatrix/-/indicatrix-1.4.1.tgz#f1359c96eb5a0aeb278e860ca98e645f92b06f07"
   integrity sha512-l/MrxZip0Zrf5HrnLTrV+6CxTfQBLp+8uAc1Pwcte5cMl9vMMupEaJziJujXKmXIKb0qk9pAclcpf+sTJJgTqQ==
-
-mnp@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/mnp/-/mnp-1.2.1.tgz#4ba77b019551944272354d52d22cf9e1fece569a"
-  integrity sha512-CctfTh3eg9binZavoWxKNr8RSnItE4tx59z1zNl/eEcC5L/Mu5ihcKM/GHXBcO0s+n2GOzXh+tEQFEQfgo76Hg==
-  dependencies:
-    "@mnpjs/licenses" "^1.0.0"
-    "@rqt/github" "^1.3.1"
-    alamode "^3.5.2"
 
 preact@8.5.3:
   version "8.5.3"

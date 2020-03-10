@@ -1,7 +1,7 @@
 import makeTestSuite from '@zoroaster/mask'
 import { EOL } from 'os'
 import Context from '../context'
-import myNewPackage from '../../src'
+import examplePackage from '../../src'
 
 export default makeTestSuite('test/result/default', {
   /**
@@ -9,7 +9,7 @@ export default makeTestSuite('test/result/default', {
    */
   async getResults({ fixture, readFile }) {
     const text = readFile(fixture`${this.input}.txt`)
-    const res = await myNewPackage({
+    const res = await examplePackage({
       text,
     })
     return `${this.input}:${EOL}${res}`
